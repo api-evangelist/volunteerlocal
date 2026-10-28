@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-VolunteerLocal is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://volunteerlocal.com/
+VolunteerLocal provides a cloud‑based platform that helps nonprofit organizations manage volunteers, schedule shifts, track hours, and communicate with participants. Its features include volunteer databases, communication tools, scheduling, reporting, and integrations, enabling efficient volunteer program administration.
+
+**Areas:** Volunteer Management · Scheduling · Communication · Tracking · Reporting · Database · Event Management
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.volunteerlocal.com/)
+- [Documentation](https://help.volunteerlocal.com/)
+- [Pricing](https://www.volunteerlocal.com/pricing)
+- [Sign up](https://app.volunteerlocal.com/signup/)
+- [Support](https://www.volunteerlocal.com/support)
+- [Terms of service](https://volunteerlocal.com/legal/terms-of-service)
+- [Privacy policy](https://www.volunteerlocal.com/legal/privacy-policy)
+- [GitHub](https://github.com/volunteerlocal)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/volunteerlocal/](https://apis.io/providers/volunteerlocal/).
